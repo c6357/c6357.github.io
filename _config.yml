@@ -1,0 +1,21 @@
+# Site settings
+title: Clean Blog
+header-img: img/home-bg.jpg
+email: c6357@outlook.com
+copyright_name: c6357
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://c6357.github.io"
+twitter_username: c6357
+github_username:  c6357
+facebook_username:  c6357
+email_username:  c6357
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
