@@ -30,8 +30,10 @@ tags:
 ---
 
 ## 正文
+<br/>
+<a href="http://mouapp.com" target="_blank">下载Markdown</a>
 
-Markdown 语法说明 (简体中文版) [点击查看快速入门](http://www.appinn.com/markdown/{:target="_blank"})
+Markdown 语法说明 (简体中文版) [点击查看快速入门](http://www.appinn.com/markdown/)
 
 
 接下来说说搭建这个博客的技术细节。  
@@ -58,6 +60,7 @@ Markdown 语法说明 (简体中文版) [点击查看快速入门](http://www.ap
 ## 后记
 
 
-—— Bruce 后记于 2016.03
+—— Bruce 后记于 2016.03>
+]]
 
 
