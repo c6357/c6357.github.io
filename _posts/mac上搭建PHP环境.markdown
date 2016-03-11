@@ -4,16 +4,15 @@ title:      "mac上搭建PHP环境"
 subtitle:   ""
 date:       2015-01-29 12:00:00
 author:     "Bruce"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/posts/post-bg-2015.jpg"
 tags:
     - php
 ---  
 
-
-<h2>1.下载<a href="https://www.apachefriends.org/index.html"target="_blank">XAMPP</a></h2>
-
+##[1.下载XAMPP](https://www.apachefriends.org/index.html)
 
 
+<br/>
 
 
  <h2>2.安装XAMPP</h2> 
