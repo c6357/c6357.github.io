@@ -10,7 +10,7 @@ tags:
 ---  
 
 
-##<a href="https://www.apachefriends.org/index.html" target="_blank">1.下载XAM</a>
+<h2>1.下载<a href="https://www.apachefriends.org/index.html"target="_blank">XAMPP</a></h2>
 
 
 
