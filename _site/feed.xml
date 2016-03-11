@@ -5,65 +5,9 @@
     <description>这里写自己的描述</description>
     <link>http://c6357.github.io/</link>
     <atom:link href="http://c6357.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Mar 2016 17:50:13 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2016 17:50:13 +0800</lastBuildDate>
+    <pubDate>Fri, 11 Mar 2016 17:52:08 +0800</pubDate>
+    <lastBuildDate>Fri, 11 Mar 2016 17:52:08 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
-    
-      <item>
-        <title>Hello 2016</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“123”¸¸¸&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;前言&lt;/h2&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;来玩一下博客&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;&quot;&gt;首先感谢(Hux)的开源&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#build&quot;&gt;跳过废话，直接看正文&lt;/a&gt;&lt;/p&gt;
-
-&lt;p id=&quot;build&quot;&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;正文&lt;/h2&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;http://mouapp.com&quot; target=&quot;_blank&quot;&gt;下载Markdown&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Markdown 语法说明 (简体中文版) &lt;a href=&quot;http://www.appinn.com/markdown/&quot;&gt;点击查看快速入门&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;接下来说说搭建这个博客的技术细节。&lt;/p&gt;
-
-&lt;p&gt;正好之前就有关注过 &lt;a href=&quot;https://pages.github.com/{:target=&amp;quot;_blank&amp;quot;}&quot;&gt;GitHub Pages&lt;/a&gt; + &lt;a href=&quot;http://jekyllrb.com/{:target=&amp;quot;_blank&amp;quot;}&quot;&gt;Jekyll&lt;/a&gt; 快速 Building Blog 的技术方案，非常轻松时尚。&lt;/p&gt;
-
-&lt;p&gt;其优点非常明显：
-* &lt;strong&gt;Markdown&lt;/strong&gt; 带来的优雅写作体验
-* 非常熟悉的 Git workflow ，&lt;strong&gt;Git Commit 即 Blog Post&lt;/strong&gt;
-* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
-	* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了 
-* Jekyll 的自定制非常容易，基本就是个模版引擎&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;如何使用Markdown&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;后记&lt;/h2&gt;
-
-&lt;p&gt;—— Bruce 后记于 2016.03&amp;gt;
-]]&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 29 Jan 2015 20:00:00 +0800</pubDate>
-        <link>http://c6357.github.io/2015/01/29/01/</link>
-        <guid isPermaLink="true">http://c6357.github.io/2015/01/29/01/</guid>
-        
-        <category>博客的第一天</category>
-        
-        
-      </item>
     
   </channel>
 </rss>
