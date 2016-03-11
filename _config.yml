@@ -1,6 +1,6 @@
 # Site settings
 title: BruceYu's Blog
-SEOTitle: BruceYu's Blog
+SEOTitle: BruceYu
 header-img: img/home-bg.jpg
 email: c6357@outlook.com
 description: "这里写自己的描述"
@@ -67,7 +67,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "世界那么大，我想去看看。"
+sidebar-about-description: "人生就是一场修行。"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -82,9 +82,9 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "BruceYu的博客",
-        href: "http://c6357.github.io"
+        href: "http://my.oschina.net/u/868062"
     },{
-        title: "c6357",
-        href: "http://c6357.github.io"
+        title: "github",
+        href: "https://github.com/c6357"
     }
 ]
