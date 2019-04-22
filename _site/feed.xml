@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BruceYu&#39;s Blog</title>
+    <title>BruceYu's Blog</title>
     <description>这里写自己的描述</description>
-    <link>http://c6357.github.io/</link>
-    <atom:link href="http://c6357.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Mar 2016 17:55:12 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2016 17:55:12 +0800</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 22 Apr 2019 22:19:08 +0800</pubDate>
+    <lastBuildDate>Mon, 22 Apr 2019 22:19:08 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>mac上搭建PHP环境</title>
-        <description>&lt;h2 id=&quot;xampphttpswwwapachefriendsorgindexhtml&quot;&gt;&lt;a href=&quot;https://www.apachefriends.org/index.html&quot;&gt;1.下载XAMPP&lt;/a&gt;&lt;/h2&gt;
+        <description>&lt;p&gt;##&lt;a href=&quot;https://www.apachefriends.org/index.html&quot;&gt;1.下载XAMPP&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -59,8 +59,8 @@
 
 </description>
         <pubDate>Thu, 29 Jan 2015 20:00:00 +0800</pubDate>
-        <link>http://c6357.github.io/2015/01/29/02/</link>
-        <guid isPermaLink="true">http://c6357.github.io/2015/01/29/02/</guid>
+        <link>http://localhost:4000/2015/01/29/02/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/01/29/02/</guid>
         
         <category>php</category>
         
@@ -73,7 +73,7 @@
   &lt;p&gt;“123”¸¸¸&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;##前言&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -87,7 +87,7 @@
 &lt;p id=&quot;build&quot;&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;正文&lt;/h2&gt;
+&lt;h2 id=&quot;正文&quot;&gt;正文&lt;/h2&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;a href=&quot;http://mouapp.com&quot; target=&quot;_blank&quot;&gt;下载Markdown&lt;/a&gt;&lt;/p&gt;
 
@@ -97,26 +97,31 @@
 
 &lt;p&gt;正好之前就有关注过 &lt;a href=&quot;https://pages.github.com/{:target=&amp;quot;_blank&amp;quot;}&quot;&gt;GitHub Pages&lt;/a&gt; + &lt;a href=&quot;http://jekyllrb.com/{:target=&amp;quot;_blank&amp;quot;}&quot;&gt;Jekyll&lt;/a&gt; 快速 Building Blog 的技术方案，非常轻松时尚。&lt;/p&gt;
 
-&lt;p&gt;其优点非常明显：
-* &lt;strong&gt;Markdown&lt;/strong&gt; 带来的优雅写作体验
-* 非常熟悉的 Git workflow ，&lt;strong&gt;Git Commit 即 Blog Post&lt;/strong&gt;
-* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
-	* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了 
-* Jekyll 的自定制非常容易，基本就是个模版引擎&lt;/p&gt;
+&lt;p&gt;其优点非常明显：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; 带来的优雅写作体验&lt;/li&gt;
+  &lt;li&gt;非常熟悉的 Git workflow ，&lt;strong&gt;Git Commit 即 Blog Post&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
+    &lt;ul&gt;
+      &lt;li&gt;如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jekyll 的自定制非常容易，基本就是个模版引擎&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;如何使用Markdown&lt;/code&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;后记&lt;/h2&gt;
+&lt;h2 id=&quot;后记&quot;&gt;后记&lt;/h2&gt;
 
 &lt;p&gt;—— Bruce 后记于 2016.03&amp;gt;
 ]]&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 29 Jan 2015 20:00:00 +0800</pubDate>
-        <link>http://c6357.github.io/2015/01/29/01/</link>
-        <guid isPermaLink="true">http://c6357.github.io/2015/01/29/01/</guid>
+        <link>http://localhost:4000/2015/01/29/01/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/01/29/01/</guid>
         
         <category>博客的第一天</category>
         
